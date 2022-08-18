@@ -14,7 +14,7 @@
 ## Used in this project
 👉 HTML div, link, header, hr, button, lists etc.
 
-👉 CSS font, grid, margin, padding, border, navbar, pointer, inline-blocks etc.
+👉 CSS font, grid, margin, padding, border, navbar, pointer, float, inline-blocks etc.
 
 ## Description
 I made this website to practicing my HTML and CSS coding skills. 
